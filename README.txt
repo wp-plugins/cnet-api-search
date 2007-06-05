@@ -2,9 +2,9 @@
 Version: 0.9
 Author: Bill Graham
 Home: http://www.billygrahampresents.com.com/cnet-api-search/
-Tags: CNET shopping tech post sidebar search widget
+Tags: CNET, shopping, tech, post, sidebar, search, widget
 Creation time: Thu May 31 14:58:26 PDT 2007
-Stable Tag: 0.9.1
+Stable Tag: 0.9.1.1
 Requires at least: 2.1
 Tested up to: 2.2
 

@@ -40,6 +40,12 @@ your blog post.
 
 * Wordpress 2.1 or later
 
+= How does it work?  =
+
+* The plugin makes search requests to the [CNET API](http://api.cnet.com) for
+CNET Reviews and CNET Shopper product data. The results are displayed in a pop-up.
+
+
 == Installation ==
 
 1. Extract the cnet-api-search.zip file to your wp-content\plugins
